@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lime">#00ff00</color>
+    <color name="white">#ffffff</color>
+    <dimen name="font_size">12pt</dimen>
+    <dimen name="line_heigh">50dp</dimen>
+    <dimen name="line_title_width">130dp</dimen>
+    <string name="app_name">卡号信息显示</string>
+    <string name="title">MiFare Tag Detection</string>
+</resources>

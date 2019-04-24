@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">清沂山PDA</string>
+    <string name="login">用户登录</string>
+    <string name="tv_username">用户:</string>
+    <string name="tv_password">密码:</string>
+    <string name="bt_log">登录</string>
+    <string name="bt_bos">取消</string>
+    <string name="et_username">输入用户名</string>
+    <string name="et_password">输入密码</string>
+    <string name="search">查询车辆信息</string>
+    <string name="cph">车牌号</string>
+
+    <string name="title_activity_index">IndexActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>

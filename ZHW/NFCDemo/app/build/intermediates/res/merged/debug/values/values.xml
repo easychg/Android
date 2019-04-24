@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#3F51B5</color>
+    <color name="lime">#00ff00</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#ffff00</color>
+    <dimen name="font_size">12pt</dimen>
+    <dimen name="line_heigh">60dp</dimen>
+    <dimen name="line_title_width">130dp</dimen>
+    <string name="app_name">卡号信息显示</string>
+    <string name="title">MiFare Tag Detection</string>
+    <style name="mystyle" parent="android:Theme">
+        <item name="android:windowTitleSize">50dp</item>
+    </style>
+</resources>

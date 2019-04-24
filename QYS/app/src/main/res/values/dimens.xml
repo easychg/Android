@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="line_heigh">60dp</dimen>
+    <dimen name="line_title_width">130dp</dimen>
+    <dimen name="font_size">12pt</dimen>
+    <color name="lime">#00ff00</color><!--酸橙色 -->
+    <color name="white">#ffffff</color><!--白色 -->
+    <color name="yellow">#ffff00</color><!--黄色 -->
+    <color name="blue">#3F51B5</color>
+</resources>

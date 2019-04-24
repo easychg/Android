@@ -1,0 +1,4 @@
+#Sat Mar 16 08:18:01 CST 2019
+base.0=E\:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=E\:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

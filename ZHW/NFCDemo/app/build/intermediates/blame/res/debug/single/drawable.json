@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\underline.xml",
+        "source": "F:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\drawable\\underline.xml"
+    },
+    {
+        "merged": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\underline.xml",
+        "source": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\src\\main\\res\\drawable\\underline.xml"
+    },
+    {
+        "merged": "E:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\underline.xml",
+        "source": "E:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\drawable\\underline.xml"
+    }
+]

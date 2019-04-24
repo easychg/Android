@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml\\filter_nfc.xml",
+        "source": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    },
+    {
+        "merged": "F:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml\\filter_nfc.xml",
+        "source": "F:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    },
+    {
+        "merged": "E:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml\\filter_nfc.xml",
+        "source": "E:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\xml\\filter_nfc.xml"
+    }
+]

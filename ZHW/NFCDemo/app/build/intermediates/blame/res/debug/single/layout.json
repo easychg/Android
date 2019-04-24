@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "E:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "F:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "F:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\titlebar.xml",
+        "source": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\src\\main\\res\\layout\\titlebar.xml"
+    },
+    {
+        "merged": "E:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

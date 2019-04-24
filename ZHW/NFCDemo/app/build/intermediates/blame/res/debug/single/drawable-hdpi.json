@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "F:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\ZHW\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Android\\ZHW\\NFCDemo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "F:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

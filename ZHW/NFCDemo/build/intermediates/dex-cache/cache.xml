@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\ZHW\NFCDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="E:\Android\ZHW\NFCDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6cacff3639896cef9368a08e559e6d81718ff2cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ZHW\NFCDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="172364ce5f3655b49ce7e4303bc30ebd01265911">
+        <dex dex="E:\Android\ZHW\NFCDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9dd925dddc868a3727dd9b638f5a1a190cd581e7\classes.dex" />
+    </item>
+
+</items>

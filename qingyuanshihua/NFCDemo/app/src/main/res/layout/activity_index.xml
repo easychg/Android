@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/edit_text"
+        android:visibility="visible">
+
+
+        <LinearLayout
+            android:id="@+id/panel_all"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/line_heigh"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:layout_width="@dimen/line_title_width"
+                    android:layout_height="match_parent"
+                    android:text="车  牌  号"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+
+                <TextView
+                    android:id="@+id/txt_license"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/line_heigh"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:layout_width="@dimen/line_title_width"
+                    android:layout_height="match_parent"
+                    android:text="当前流程"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+
+                <TextView
+                    android:id="@+id/lc"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/line_heigh"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:layout_width="@dimen/line_title_width"
+                    android:layout_height="match_parent"
+                    android:text="物料名称"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+
+                <TextView
+                    android:id="@+id/oilname"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/panel_weight1"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/line_heigh"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <TextView
+                    android:id="@+id/str_weight1"
+                    android:layout_width="@dimen/line_title_width"
+                    android:layout_height="match_parent"
+                    android:text="原发毛重"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+
+                <TextView
+                    android:id="@+id/mz"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/panel_weight2"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/line_heigh"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/str_weight2"
+                    android:layout_width="@dimen/line_title_width"
+                    android:layout_height="match_parent"
+                    android:text="原发皮重"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+
+                <TextView
+                    android:id="@+id/pz"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+            </LinearLayout>
+            <LinearLayout
+
+                android:id="@+id/panel_sealNo2"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/line_heigh"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/str_sealNo2"
+                    android:layout_width="@dimen/line_title_width"
+                    android:layout_height="match_parent"
+                    android:text="随车电话"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+
+                <TextView
+                    android:id="@+id/dh"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+            </LinearLayout>
+            <LinearLayout
+
+                android:id="@+id/panel_weight3"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/line_heigh"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/str_weight3"
+                    android:layout_width="@dimen/line_title_width"
+                    android:layout_height="match_parent"
+                    android:text="供货单位"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+
+                <TextView
+                    android:id="@+id/ghdw"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:id="@+id/panel_sealNo1"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/line_heigh"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/str_sealNo1"
+                    android:layout_width="@dimen/line_title_width"
+                    android:layout_height="match_parent"
+                    android:text="收货单位"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+
+                <TextView
+                    android:id="@+id/shdw"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/font_size" />
+            </LinearLayout>
+        </LinearLayout>
+        <!--<TextView-->
+        <!--android:id="@+id/promt"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:scrollbars="vertical"-->
+        <!--android:singleLine="false"-->
+        <!--android:text="读卡中。。。" />-->
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Sep 21 09:35:07 CST 2018
+2.base=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_
+5.file=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_
+6.file=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-mdpi-v4\\icon.png
+2.set=ANDROID_RESOURCE
+4.base=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_
+7.file=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-hdpi-v4\\icon.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+5.base=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_
+4.set=ANDROID_RESOURCE
+6.base=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_
+1.file=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_
+2.file=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+3.file=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable-ldpi-v4\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_
+4.file=F\:\\Android\\NFC\\Android-NFC-master\\NFCDemo\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\xml\\filter_nfc.xml
+0.set=DEX

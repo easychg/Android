@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"  
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >  
+  
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:drawable/edit_text" >
+
+        <TextView
+            android:id="@+id/promt"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical"
+            android:singleLine="false"
+            android:text="读卡中。。。" />
+
+    </ScrollView>
+    <LinearLayout
+        android:id="@+id/panel_all"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_heigh"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="@dimen/line_title_width"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/font_size"
+            android:textColor="@color/white"
+            android:text="卡        号"/>
+        <TextView
+            android:id="@+id/txt_iccode"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/lime"
+            android:textSize="@dimen/font_size"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_heigh"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="@dimen/line_title_width"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/font_size"
+            android:textColor="@color/white"
+            android:text="装车类型"/>
+        <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/lime"
+            android:textSize="@dimen/font_size"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_heigh"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="@dimen/line_title_width"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/font_size"
+            android:textColor="@color/white"
+            android:text="车  牌  号"/>
+        <TextView
+            android:id="@+id/txt_license"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/lime"
+            android:textSize="@dimen/font_size"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_heigh"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="@dimen/line_title_width"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/font_size"
+            android:textColor="@color/white"
+            android:text="物料名称"/>
+        <TextView
+            android:id="@+id/txt_oilname"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/lime"
+            android:textSize="@dimen/font_size"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/panel_crtname"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_heigh"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="@dimen/line_title_width"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/font_size"
+            android:textColor="@color/white"
+            android:text="鹤        位"/>
+        <TextView
+            android:id="@+id/txt_crtname"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/lime"
+            android:textSize="@dimen/font_size"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/panel_weight1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_heigh"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/str_weight1"
+            android:layout_width="@dimen/line_title_width"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/font_size"
+            android:textColor="@color/white"
+            android:text="仓  一  量"/>
+        <TextView
+            android:id="@+id/txt_weight1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/lime"
+            android:textSize="@dimen/font_size"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/panel_weight2"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/line_heigh"
+    android:orientation="horizontal">
+    <TextView
+        android:id="@+id/str_weight2"
+        android:layout_width="@dimen/line_title_width"
+        android:layout_height="match_parent"
+        android:textSize="@dimen/font_size"
+        android:textColor="@color/white"
+        android:text="仓  二  量"/>
+    <TextView
+        android:id="@+id/txt_weight2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/lime"
+        android:textSize="@dimen/font_size"/>
+    </LinearLayout>
+    <LinearLayout
+
+        android:id="@+id/panel_weight3"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_heigh"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/str_weight3"
+            android:layout_width="@dimen/line_title_width"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/font_size"
+            android:textColor="@color/white"
+            android:text="仓  三  量"/>
+        <TextView
+            android:id="@+id/txt_weight3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/lime"
+            android:textSize="@dimen/font_size"/>
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>  
